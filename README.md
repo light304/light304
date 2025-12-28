@@ -1,4 +1,14 @@
 ## Hi there 👋
+My name is Cooper, I'm a second year Computer Science student at AUT, I really enjoy back end coding, 
+
+ - Some things I'm working on:
+My own Shell, GUI for a scripted automated champion selection (using API's).
+ 
+ - Primary Coding Languages: 
+  Java, Python, C/C++, and C# (.NET).
+
+ - Other Familiar Languages:
+  HTML/CSS, R, SQL.
 
 <!--
 **light304/light304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Cooper, I'm a second year Computer Science student at AUT, I really enjoy back end coding, 
+My name is Cooper, I'm a second year Computer Science student at AUT. 
 
  - Some things I'm working on:
 My own Shell, GUI for a scripted automated champion selection (using API's).

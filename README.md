@@ -2,7 +2,7 @@
 My name is Cooper, I'm a second year Computer Science student at AUT. 
 
  - Some things I'm working on:
-My own Terminal, GUI for a automated champion selection (using API's).
+My own Terminal, GUI for a automated champion selection (using Riots API's).
  
  - Primary Coding Languages: 
   Java, Python, C/C++, and C# (.NET).

@@ -1,26 +1,11 @@
-## Hi there 👋
-My name is Cooper, I'm a second year Computer Science student at AUT. 
+My name is Cooper Gardyne, I'm a third year Computer Science student at AUT. 
 
- - Some things I'm working on:
-My own Terminal, GUI for a automated champion selection (using Riots API's).
- 
+ - Some things I'm working on currently:
+  Personal - My own Terminal, GUI for a automated champion selection (using Riots API's).
+  University - Dynamic Data Dashboard.
+
  - Primary Coding Languages: 
   Java, Python, C/C++, and C# (.NET).
 
  - Other Familiar Languages:
   HTML/CSS, R, SQL.
-
-<!--
-**light304/light304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -19,7 +19,7 @@ University - Dynamic Data Dashboard, a GUI that visualises retail stock in graph
   HTML, CSS, JavaScript, and TypeScript.
 
 
-- Networking wise, I have done plenty of homelabbing + with experianced guidance
+- Networking wise, I have done plenty of homelabbing + with experianced guidance.
   With this I understand Cisco infurstructure / commands,
   I have created my own personal server,
   And am hosting a portfolio website via Cloudflare.
